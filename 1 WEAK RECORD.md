@@ -10,6 +10,7 @@ TEAM 4
 
 🚢  1일 차 (망망대해)
  디자인, 기획, API 등 어떤 것을 할 것 인지 정하였고, 항해 진행 중인 Crew 원들을 위해 간단히 접속 가능한 방명록 기능을 하기로 함. 진행 중 기획 , 디자인은 무난하게 계획 할 수 있었지만 **Git으로 협업 공부** 중 CREW 한분실종 처리 됌.
+ 
   ![KakaoTalk_Photo_2021-09-19-15-51-17-1](https://user-images.githubusercontent.com/88579497/133918413-3a8725a0-112f-401c-a54c-2035ff6ae0c7.jpeg)
   ![KakaoTalk_Photo_2021-09-19-15-51-17-2](https://user-images.githubusercontent.com/88579497/133918417-a2621085-da5c-4ba8-baa3-cde4d7d82c87.jpeg)
   <img width="1415" alt="스크린샷 2021-09-19 오후 3 55 37" src="https://user-images.githubusercontent.com/88579497/133918521-d795d75b-7e09-4161-8062-9f033cd55e62.png">
@@ -52,6 +53,7 @@ TEAM 4
   ![썸네일 제출용](https://user-images.githubusercontent.com/88579497/133918978-2f715a02-a9c8-4679-88f5-c599dbc3d8e9.jpg)
   
   유튜브(프로젝트 기능구현): https://youtu.be/sNWDKsgErVU
+  
   git 주속 : https://github.com/dkdkf77/4class.git
   
   제목: PORT-us
