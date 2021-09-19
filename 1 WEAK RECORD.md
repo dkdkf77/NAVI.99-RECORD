@@ -54,7 +54,7 @@ TEAM 4
   
   유튜브(프로젝트 기능구현): https://youtu.be/sNWDKsgErVU
   
-  git 주속 : https://github.com/dkdkf77/4class.git
+  git 주소 : https://github.com/dkdkf77/4class.git
   
   제목: PORT-us
  새롭게 항해를 시작한 3기를 위한 온라인 방명록 서비스. 모든 3기의 항해원들은 간단한 회원가입 후, 각자의 팀별 방에 입장한 뒤 자유롭게 글을 남기며 다양한 정보 공유 및 부담없는 소통의 시간을 즐길 수 있다.
